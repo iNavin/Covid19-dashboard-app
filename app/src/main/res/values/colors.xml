@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="yellow">#ffdf40</color>
+    <color name="yellow1">#ff8359</color>
+    <color name="yellow19">#ffb74c</color>
+
+    <color name="blue">#59c2ff</color>
+    <color name="blue1">#1270e3</color>
+    <color name="blue19">#4485fd</color>
+
+    <color name="purple19">#a584ff</color>
+
+
+
+    <color name="pink">#ff63de</color>
+    <color name="pink1">#b122e5</color>
+
+    <color name="red">#ff7c6e</color>
+    <color name="red1">#f5317f</color>
+    <color name="red19">#ff7854</color>
+    <color name="googleRed">#D03E2F</color>
+
+    <color name="green">#aff57a</color>
+    <color name="green1">#54d169</color>
+
+    <color name="facebookBlue">#3F5996</color>
+    <color name="twitterBlue">#29C5F6</color>
+
+
+
+    <color name="grey">#f1f1f1</color>
+    <color name="light_background">#edf4fe</color>
+
+
+
+    <color name="transparent">#00000000</color>
+    <color name="editTextBG">#DADADA</color>
+
+    <color name="textColor">#6e6e6e</color>
+    <color name="text_background">#EEEDED</color>
+</resources>

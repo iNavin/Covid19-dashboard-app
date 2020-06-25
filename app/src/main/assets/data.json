@@ -1,0 +1,127 @@
+{
+  "prevention": [
+    {
+      "img": "handwash",
+      "title": "HandWash",
+      "description": "Washing your hands is easy, and it's one of the most effective ways to prevent the spread of germs. It involves five simple and effective steps.",
+      "points": [
+        "Wet your hands with clean, running water (warm or cold), turn off the tap, and apply soap.",
+        "Lather your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails.",
+        "Scrub your hands for at least 20 seconds. Need a timer? Hum the \"Happy Birthday\" song from beginning to end twice. Rinse your hands well under clean, running water.",
+        "Dry your hands using a clean towel or air dry them."
+      ]
+    },
+    {
+      "img": "home",
+      "title": "Avoid close contact",
+      "description": "put distance between yourself and other people if COVID-19 is spreading in your community",
+      "points": [
+        "Avoid physical contact when greeting people.Safe greetings gestures should be employed that avoids physical contact of any sort. These gestures may include a wave, a nod or a bow.",
+        "Maintain at least 1 metre (3 feet) distance between yourself and others.When someone coughs, sneezes, or speaks they spray small liquid droplets from their nose or mouth which may contain virus. ",
+        "Avoid any physical contact with people who are already sick especially suffering from cough, fever or difficulty breathing. Isolate yourself if suffering from any such condition and contact with health care provider. ",
+        "Do not spit in public. Follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. "
+      ]
+    },
+    {
+      "img": "mask",
+      "title": "Wear a facemask",
+      "description": "You should wear a facemask when you are around other people (e.g sharing a room or vehicle) and before you enter a healthcare provider's office",
+      "points": [
+        "Before putting on a mask, clean hands with alcohol-based hand rub or soap and water.",
+        "Cover mouth and nose with mask and make sure there are no gaps between your face and the mask.",
+        "Avoid touching the mask while using it; if you do, clean your hands with alcohol-based hand rub or soap and water.",
+        "Replace the mask with a new one as soon as it is damp and do not re-use single-use masks.",
+        "To remove the mask: remove it from behind (do not touch the front of mask); discard immediately in a closed bin; clean hands with alcohol-based hand rub or soap and water.",
+        "Wear a mask if you are coughing or sneezing.",
+        "Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water.",
+        "If you wear a mask, then you must know how to use it and dispose of it properly."
+      ]
+    },
+    {
+      "img": "myth",
+      "title": "myth buster",
+      "description": "Myths are the misinformations that are circulated and are not supposed to have any scientific evidences. ",
+      "points": [
+        "There are currently no drugs licensed for the treatment or prevention of COVID-19.",
+        "Adding pepper to your soup or other meals DOES NOT prevent or cure COVID-19.",
+        "COVID-19 IS NOT transmitted through houseflies.",
+        "Spraying and introducing bleach or another disinfectant into your body WILL NOT protect you against COVID-19 and can be dangerous.",
+        "Drinking methanol, ethanol or bleach DOES NOT prevent or cure COVID-19 and can be extremely dangerous.",
+        "5G mobile networks DO NOT spread COVID-19.",
+        "Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease (COVID-19).",
+        "Being able to hold your breath for 10 seconds or more without coughing or feeling discomfort DOES NOT mean you are free from the coronavirus disease (COVID-19) or any other lung disease.",
+        "Drinking alcohol does not protect you against COVID-19 and can be dangerous.",
+        "COVID-19 virus can be transmitted in areas with hot and humid climates.",
+        "Cold weather and snow CANNOT kill the new coronavirus.",
+        "Taking a hot bath does not prevent the new coronavirus disease.",
+        "The new coronavirus CANNOT be transmitted through mosquito bites.",
+        "Ultra-violet (UV) lamps should not be used to disinfect hands or other areas of your skin.",
+        "Thermal scanners are effective in detecting people who have a fever (i.e. have a higher than normal body temperature). They cannot detect people who are infected with COVID-19.",
+        "Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenza type B (Hib) vaccine, do not provide protection against the new coronavirus.",
+        "There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus. ",
+        "Garlic is a healthy food that may have some antimicrobial properties. However, there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.",
+        "People of all ages can be infected by the new coronavirus (2019-nCoV). Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus. ",
+        "The new coronavirus (2019-nCoV) is a virus and, therefore, antibiotics should not be used as a means of prevention or treatment.",
+        "To date, there is no specific medicine recommended to prevent or treat the new coronavirus (2019-nCoV)."
+      ]
+    }
+  ],
+  "symptoms": [
+    {
+      "img": "fever",
+      "title": "Fever",
+      "description": "Fever is when a human's body temperature goes above the normal range of 36-37 Centigrade."
+    },
+    {
+      "img": "sorethroat",
+      "title": "Dry Cough",
+      "description": "A dry cough is a cough where no phlegm or mucus is produced."
+    },
+    {
+      "img": "shortbreath",
+      "title": "Shortness of breath",
+      "description": "An intense tightening in the chest, difficulty breathing."
+    },
+    {
+      "img": "headache",
+      "title": "Aches and pains",
+      "description": "your body starts to ache everywhere without any subtle reason "
+    },
+    {
+      "img": "lossofsmell",
+      "title": "Loss of taste or smell",
+      "description": "This is the condition when you cannot feel any taste or smell around you"
+    },
+    {
+      "img": "sorethroatnew",
+      "title": "Sore Throat",
+      "description": "A sore throat is pain, scratchiness or irritation of the throat that often worsens when you swallow"
+    },
+
+    {
+      "img": "fatigue",
+      "title": "Fatigue",
+      "description": "You will get tried very soon as compared to normal average human"
+    },
+    {
+      "img": "pneumonia",
+      "title": "Pneumonia",
+      "description": "Pneumonia is one  of the comfirmed diesease that happens when you affect the virus for a long time"
+    },
+    {
+      "img": "diarrhea",
+      "title": "Diarrhea",
+      "description": "Diarrhea is characterized by loose, watery stools or a frequent need to have a bowel movement"
+    },
+    {
+      "img": "vomiting",
+      "title": "Nausea or Vomiting",
+      "description": "A person may experience Nausea or Vomiting when they are affected with the virus"
+    },
+    {
+      "img": "runnynose",
+      "title": "Congestion or Runny Nose",
+      "description": "Congestion is a general term that refers to a feeling of stuffiness in the nasal or breathing passageways"
+    }
+  ]
+}
